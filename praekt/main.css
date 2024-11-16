@@ -418,18 +418,19 @@ color: #000000;
 
 .ent h1{
     width: 397px;
-height: 88px;
-top: 1637px;
-left: 85px;
-gap: 0px;
-opacity: 0px;
-font-family: Roboto;
-font-size: 36px;
-font-weight: 400;
-line-height: 44px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
+    height: 88px;
+    top: 1637px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+        
 
 }
 
@@ -466,7 +467,83 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 
 }
+.land{
+    display: flex;
+}
 
-.active{
-    display: block;
+.ent p{
+    width: 402px;
+height: 84px;
+top: 1745px;
+left: 85px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.active img{
+    width: 616px;
+height: 616px;
+top: 2033px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.lang h1{
+    width: 412px;
+height: 44px;
+top: 2208px;
+left: 747px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.lanish p{
+    width: 441px;
+height: 84px;
+top: 2272px;
+left: 747px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.can p{
+    width: 234px;
+height: 28px;
+top: 2382px;
+left: 747px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
 }
